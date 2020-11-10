@@ -1,2 +1,0 @@
-# misho
-Survey project
